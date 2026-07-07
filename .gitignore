@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.mbox_to_imap_progress.txt
+*.log
+targets*.txt
+.DS_Store
+*.pst
+pst-export/
+pst-export.sav/
