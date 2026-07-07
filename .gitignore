@@ -7,3 +7,6 @@ targets*.txt
 *.pst
 pst-export/
 pst-export.sav/
+PST_Migration_Dokumentation.docx
+PST_Migration_Dokumentation_*.docx
+!PST_Migration_Dokumentation_anonymisiert*.docx
